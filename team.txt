@@ -1,3 +1,5 @@
 Team members: srihitanuthalapati and sinchanahiremath1
 Favorite programming language: TBD
+<<<<<<< HEAD
 Team motto: Live life to the fullest
+
